@@ -3,8 +3,9 @@
 <body>
 
 <?php
-$voornaam = "Tom";
-echo gettype($voornaam);
+$voornaam = "mitchel";
+$leeftijd = "16";
+echo gettype($voornaam is $leeftijd jaar oud);
 ?>
 
 </body>
